@@ -1,0 +1,101 @@
+,id,age,confirmation_1,confirmation_2,gender,gender_numeric,handedness,handedness_numeric,degree,degree_numeric
+0,668220.0,43,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+1,668225.0,31,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+2,668237.0,34,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+3,668239.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+4,668240.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+5,668244.0,44,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+6,668245.0,36,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+7,668246.0,37,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+8,668249.0,21,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+9,668251.0,51,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+10,668253.0,30,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+11,668254.0,43,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+12,668262.0,45,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+13,668263.0,3,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Post-secondary non-tertiary education,1
+14,668267.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+15,668270.0,55,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+16,668274.0,62,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+17,668370.0,42,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Bachelor's Degree,2
+18,672044.0,40,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+19,672045.0,60,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+20,672046.0,51,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+21,672581.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+22,672582.0,49,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+23,672585.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+24,672586.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+25,672587.0,45,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+26,672588.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+27,672590.0,45,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+28,672592.0,36,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+29,672593.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+30,672594.0,28,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+31,672595.0,33,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+32,672596.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Doctor of Philosophy,4
+33,672611.0,36,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+34,672614.0,57,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Master's Degree,3
+35,672655.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Left-handed,2,Bachelor's Degree,2
+36,674197.0,38,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+37,675515.0,53,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+38,675528.0,26,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+39,675577.0,46,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+40,675579.0,47,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+41,675592.0,49,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Left-handed,2,Post-secondary non-tertiary education,1
+42,675610.0,56,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Post-secondary non-tertiary education,1
+43,675625.0,39,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+44,675631.0,25,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+45,675635.0,28,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+46,675636.0,31,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+47,675643.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+48,675654.0,31,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Post-secondary non-tertiary education,1
+49,675662.0,45,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Bachelor's Degree,2
+50,675664.0,40,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+51,675665.0,25,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+52,675669.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+53,675670.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+54,675690.0,52,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+55,675732.0,22,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Post-secondary non-tertiary education,1
+56,676774.0,53,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+57,680108.0,60,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Left-handed,2,Post-secondary non-tertiary education,1
+58,680109.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+59,680110.0,30,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+60,680112.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+61,680113.0,38,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+62,680115.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+63,680118.0,36,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+64,680119.0,25,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+65,680125.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+66,680126.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+67,680127.0,51,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+68,680129.0,53,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+69,680136.0,46,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+70,680155.0,57,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+71,680156.0,47,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Post-secondary non-tertiary education,1
+72,680167.0,31,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+73,680168.0,38,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+74,680171.0,48,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+75,680257.0,30,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+76,681086.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+77,683238.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+78,683239.0,51,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+79,683240.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+80,683241.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+81,683242.0,42,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+82,683243.0,28,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+83,683244.0,48,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+84,683245.0,29,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Ambidextrous,3,Bachelor's Degree,2
+85,683246.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+86,683250.0,63,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+87,683251.0,35,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+88,683252.0,31,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+89,683257.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+90,683259.0,38,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+91,683264.0,44,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Left-handed,2,Post-secondary non-tertiary education,1
+92,683265.0,33,,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+93,683284.0,27,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+94,683302.0,62,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
+95,683305.0,25,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Bachelor's Degree,2
+96,683308.0,31,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Female,1,Right-handed,1,Master's Degree,3
+97,683358.0,37,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Bachelor's Degree,2
+98,684252.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Post-secondary non-tertiary education,1
+99,684262.0,32,I do not have any psychiatric or neurological disorders,I am not taking any medications for psychiatric disorders,Male,2,Right-handed,1,Master's Degree,3
